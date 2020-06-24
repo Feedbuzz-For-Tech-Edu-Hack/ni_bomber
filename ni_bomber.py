@@ -16,11 +16,11 @@ print(f"{green}{bold}\t\t{underline}[NI BOMBER 2.4]{end}")
 print()
 print(f"{bold}coded by{end}", end="")
 print(f"{green}{bold} >> {end}", end = "")
-print(f"{cyan}{bold}nikait{end}")
+print(f"{cyan}{bold}feedbuzz{end}")
 
 print(f"{bold}telegram{end}", end = "")
 print(f"{green}{bold} >> {end}", end = "")
-print(f"{cyan}{bold}@aaanikit{end}")
+print(f"{cyan}{bold}@feedbuzzme{end}")
 print()
 
 #inputs
